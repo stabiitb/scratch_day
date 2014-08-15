@@ -1,0 +1,18 @@
+.head{
+font-family: Aclonica ;
+line-height: 1em;
+color: #9cd946;
+font-size: 50px;
+text-shadow:0px 0px 0 rgb(131,192,45),1px 1px 0 rgb(112,173,26),2px 2px 0 rgb(94,155,8), 3px 3px 0 rgb(76,137,-10),4px 4px 3px rgba(0,0,0,0.45),4px 4px 1px rgba(0,0,0,0.5),0px 0px 3px rgba(0,0,0,.2);}
+
+.head2{
+font-family: Aladin ;
+line-height: 1em;
+color: #c3dae8;
+font-size: 50px;
+text-shadow:0px 0px 0 rgb(170,193,207),1px 1px 0 rgb(151,174,188),2px 2px 0 rgb(133,156,170), 3px 3px  0 rgb(115,138,152),4px 4px 3px rgba(0,0,0,0.45),4px 4px 1px rgba(0,0,0,0.5),0px 0px 3px rgba(0,0,0,.2);}
+
+.store-target{
+	height: 500px;
+	width: 500px;
+}
